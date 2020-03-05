@@ -1,0 +1,21 @@
+/* materialize hacks */
+/*1 Sticky footer*/
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+.page-footer{
+    position: fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+}
+
+/* custom */
+.fieldset-form{
+    border:1px solid #616161;
+}
