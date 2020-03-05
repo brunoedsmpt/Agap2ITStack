@@ -1,0 +1,17 @@
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.exe
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.deps.json
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.runtimeconfig.json
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.runtimeconfig.dev.json
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.dll
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\bin\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.pdb
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.csprojAssemblyReference.cache
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI_MarkupCompile.cache
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI_MarkupCompile.lref
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.g.resources
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.AssemblyInfoInputs.cache
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.AssemblyInfo.cs
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.dll
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.UI\obj\Debug\netcoreapp3.1\Agap2IT.DDDInPractice.UI.pdb

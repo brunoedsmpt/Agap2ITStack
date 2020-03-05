@@ -1,0 +1,8 @@
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\bin\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.deps.json
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\bin\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.dll
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\bin\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.pdb
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\obj\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.csprojAssemblyReference.cache
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\obj\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.AssemblyInfoInputs.cache
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\obj\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.AssemblyInfo.cs
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\obj\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.dll
+C:\Users\bmonteiro\Documents\Projects\Agap2IT\back-end\Agap2IT.DDDInPractice.Logic\obj\Debug\netstandard2.0\Agap2IT.DDDInPractice.Logic.pdb

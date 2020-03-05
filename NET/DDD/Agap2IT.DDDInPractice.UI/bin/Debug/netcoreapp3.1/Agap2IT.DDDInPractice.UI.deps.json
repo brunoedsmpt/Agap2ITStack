@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Agap2IT.DDDInPractice.UI/1.0.0": {
+        "runtime": {
+          "Agap2IT.DDDInPractice.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agap2IT.DDDInPractice.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
